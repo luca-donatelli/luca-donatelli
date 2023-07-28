@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width="100"/>
+  <img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width="200"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com//">
